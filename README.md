@@ -47,10 +47,6 @@ To get started with this project, follow these steps:
 5. Evaluate the performance of the recommendation system on your own datasets.
 6. Contribute to the project by adding new features, improving algorithms, or optimizing performance.
 
-## Data Preparation
-
-In this project, we load and preprocess the data. The `remove_outliers` function is used to remove outliers based on the Interquartile Range (IQR) method. We also analyze the dataset and prepare it for modeling.
-
 ## Modeling
 
 We implement and evaluate different collaborative filtering algorithms, including SVD, NMF, KNNBasic, and SVDpp, to discover patterns in user behavior and make recommendations. We use the Surprise library for building and testing these models.
@@ -70,20 +66,3 @@ The final recommendation model is saved for use in a web application. We export 
 ## Web Application
 
 The recommendation model is deployed in a web application, allowing users to receive personalized movie recommendations based on their preferences.
-
-## Contributing
-
-Contributions to this project are welcome! Whether you want to add new features, fix bugs, or improve documentation, your help is appreciated. Please read our [Contribution Guidelines](CONTRIBUTING.md) for more details on how to get started.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to us:
-
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-
-Thank you for your interest in the Collaborative Filtering Recommender System project! We look forward to your contributions and hope this project helps you understand and implement recommendation systems using collaborative filtering.
