@@ -15,9 +15,7 @@ This project aims to build a recommendation system that provides personalized mo
 - [Hyperparameter Optimization](#hyperparameter-optimization)
 - [Model Export](#model-export)
 - [Web Application](#web-application)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Introduction
 
