@@ -1,7 +1,7 @@
 
 # Collaborative Filtering Recommender System
 
-Welcome to the Collaborative Filtering Recommender System project! This project aims to build a recommendation engine that provides personalized recommendations to users based on their preferences and behavior, leveraging the power of Collaborative Filtering.
+This project aims to build a recommendation system that provides personalized movies recommendations to users based on their preferences and behavior, leveraging the power of Collaborative Filtering. 
 
 ## Table of Contents
 
